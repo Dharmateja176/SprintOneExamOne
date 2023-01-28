@@ -6,7 +6,7 @@ class Values2{
 		System.out.println("Integer value - " + sc.nextInt());
 		System.out .println("Double value = " + sc.nextDouble());
 		System.out .println("Boolean value = " + sc.nextBoolean());
-		System.out .println(" char value = 1" + sc.next().charAt(0));
+		System.out .println(" char value = " + sc.next().charAt(0));
 		sc.nextLine();
 		System.out.println("String value = " + sc.nextLine());
 	}
